@@ -45,7 +45,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/djembar-arafat-9a6602178/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" />
   </a>
   </p>
