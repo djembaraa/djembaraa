@@ -11,14 +11,12 @@
       <p align="left">
         A passionate Full-Stack Developer based in Indonesia 🇮🇩, specializing in the <strong>PERN (PostgreSQL, Express.js, React, Node.js)</strong> stack. I enjoy building robust, scalable, and intuitive web applications from front to back.
       </p>
-      
       <ul>
         <li>🔭 I’m currently building a <strong>full-stack project management tool</strong>.</li>
         <li>🌱 I’m exploring <strong>GraphQL</strong> to create more efficient APIs.</li>
         <li>👯 I’m open to collaborating on <strong>impactful open-source projects</strong>.</li>
         <li>📫 How to reach me: <strong>djembararafat98@gmail.com</strong></li>
       </ul>
-
       <h3 align="left">Connect with me:</h3>
       <p align="left">
         <a href="https://www.linkedin.com/in/djembar-arafat-9a6602178/" target="blank">
