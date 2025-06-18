@@ -53,13 +53,13 @@ Check out my live projects and works on my personal portfolio website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/djembar-arafat-9a6602178/)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" />
-    <a href="https://t.me/@djembaraa" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="your-telegram-username" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/djembar-arafat-9a6602178/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djembar-arafat" height="30" width="40" />
   </a>
-  </p>
+  <a href="https://t.me/djembaraa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="djembaraa" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
