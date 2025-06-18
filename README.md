@@ -1,11 +1,14 @@
+<h1 align="center">Hi there, I'm Djembara! 👋</h1>
+<h3 align="center">A PERN Stack Developer from Indonesia 🇮🇩</h3>
+
 ---
 
 <table align="center">
   <tr>
     <td valign="top" width="60%">
-      <h2 align="left">Hello there, I'm Djembara! 👋</h2>
+      <h2 align="left">Hello there!</h2>
       <p align="left">
-        A passionate Full-Stack Developer based in Indonesia 🇮🇩, specializing in the <strong>PERN (PostgreSQL, Express.js, React, Node.js)</strong> stack. I enjoy building robust, scalable, and intuitive web applications from front to back.
+        A passionate Full-Stack Developer based in Indonesia, specializing in the <strong>PERN (PostgreSQL, Express.js, React, Node.js)</strong> stack. I enjoy building robust, scalable, and intuitive web applications from front to back.
       </p>
       <ul>
         <li>🔭 I’m currently building a <strong>full-stack project management tool</strong>.</li>
