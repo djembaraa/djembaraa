@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/djembaraa/djembaraa/main/banner.png" alt="Djembara Arafat's GitHub Banner"/>
-</p>
-
 ---
 
 <table align="center">
