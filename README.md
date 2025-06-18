@@ -11,6 +11,14 @@
   📫 How to reach me: **djembararafat98@gmail.com** <br>
 </p>
 
+### ✨ My Portfolio
+
+Check out my live projects and works on my personal portfolio website.
+
+<a href="https://djembaraa-djembaraas-projects.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 ---
 
 <h3 align="left">My PERN Stack & Tools:</h3>
