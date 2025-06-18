@@ -60,7 +60,7 @@
 
 <h3 align="center">My GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=djembaraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=djembaraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=djembaraa&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
