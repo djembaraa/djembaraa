@@ -1,171 +1,149 @@
-<h1 align="center">👋 Hi, I’m <strong>Djembar Arafat</strong></h1>
-<h3 align="center">Full-Stack Developer · Content Creator · Creative Generalist</h3>
+<h1 align="center">Djembar Arafat</h1>
+<p align="center">
+  Full-Stack Developer · Creative Generalist · Content Creator
+</p>
 
 <p align="center">
-  <a href="https://djembaraa-djembaraas-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio Website-000?style=for-the-badge" />
+  <a href="https://djembar-cv.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge" />
+  </a>
+  <a href="https://dribbble.com/Djembara" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-View%20Shots-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="mailto:djembararafat98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-2B2B2B?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/djembaraa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-I’m a passionate **Full-Stack Developer** from Indonesia 🇮🇩, specializing in the **PERN Stack** (PostgreSQL, Express.js, React.js, Node.js).  
-I enjoy building intuitive interfaces, scalable backend systems, and digital experiences that blend technology with creative design.
-
-💡 What describes me best:  
-**“Creative technologist who builds, designs, and communicates ideas with clarity.”**
-
-### 🔍 Currently Focused On
-- Building a **Project Management Tool (PERN Stack)**
-- Learning **GraphQL**, API Architecture, & System Design
-- Improving product thinking with deeper UI/UX principles
-
-### 📫 Contact
-- Email: **djembararafat98@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## 📌 Featured Projects  
-<p align="center"><em>Premium card layout — UI/UX 2025 style</em></p>
-
-<br />
-
-<div align="center">
-
-<!-- CHATYO -->
-<a href="https://github.com/djembaraa/chatyo" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/💬 ChatYo%20—%20Real--Time%20Chat%20Platform-000?style=for-the-badge" />
-</a>
-<p>
-  <strong>Fullstack JavaScript · Real-Time Chat · Payment System · Revenue Dashboard</strong><br />
-  A real-world chatting platform with group & personal chat, monetization system, payment gateway, and a full revenue management dashboard.
-</p>
-
-<hr />
-
-<!-- WELLNESS TRACKER -->
-<a href="https://github.com/djembaraa/wellness-tracker" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/🧘 Wellness%20Tracker%20Dashboard%20—%20EmergencyyCall-000?style=for-the-badge" />
-</a>
-<p>
-  Frontend prototype dashboard focused on warm, mindful, and emotional UI.  
-  A study case for EmergencyyCall to demonstrate functional, calm, and aesthetically balanced design.
-</p>
-
-<hr />
-
-<!-- ECOMMERCE DUMMY -->
-<a href="https://github.com/djembaraa/ecommerce-publicAPI" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/🛒 Ecommerce%20Interface%20—%20DummyJSON%20API-000?style=for-the-badge" />
-</a>
-<p>
-  A product catalog built with <strong>Next.js</strong> using DummyJSON API.  
-  Includes instant search, category filters, responsive UI, and clean UX interaction.
-</p>
-
-<hr />
-
-<!-- SEA CATERING -->
-<a href="https://github.com/djembaraa/sea-catering" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/🍱 SEA%20Catering%20—%20Healthy%20Meal%20Subscription-000?style=for-the-badge" />
-</a>
-<p>
-  A full-stack subscription-based meal service app.  
-  Features meal browsing, subscription flow, and admin dashboard to monitor business metrics.
-</p>
-
-<hr />
-
-<!-- LINKEDIN CLASS -->
-<a href="https://github.com/djembaraa/linkedinclass" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/🚀 LinkedIn%20Class%20Landing%20Page-000?style=for-the-badge" />
-</a>
-<p>
-  Fully responsive landing page built with Next.js, TypeScript, and Tailwind.  
-  Submitted for Frontend Engineer assessment.
-</p>
-
-<hr />
-
-<!-- SCRAPPINGDATA -->
-<a href="https://github.com/djembaraa/scrappingdata" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/📍 Google%20Maps%20Places%20Finder-000?style=for-the-badge" />
-</a>
-<p>
-  Next.js app using the official Google Maps Places API to search places  
-  and export results to CSV — fully ethical, no illegal scraping.
-</p>
-
-<hr />
-
-<!-- MEETYOURBAND -->
-<a href="https://github.com/djembaraa/meetyourband" target="_blank">
-  <img width="100%" src="https://img.shields.io/badge/🧩 MeetYourBand%20—%20Musician%20Social%20Platform-000?style=for-the-badge" />
-</a>
-<p>
-  A full-stack platform connecting musicians.  
-  Built from scratch with modern database design, backend API, and interactive frontend.
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Activity & Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djembaraa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djembaraa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-Yes-16a34a?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-334155?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20PERN%20%7C%20UI%2FUX-1f2937?style=flat" />
+</p>
+
+---
+
+## About
+I’m a **Full-Stack Developer** from Indonesia 🇮🇩 focused on building **high-performance web products** with clean UI and scalable architecture.  
+I enjoy crafting experiences that balance **product thinking, usability, and engineering quality**.
+
+> **Creative technologist who builds, designs, and communicates ideas with clarity.**
+
+### Currently
+- Building a **Project Management Tool** (PERN Stack)
+- Learning **GraphQL**, API architecture, and system design
+- Improving product thinking through deeper **UI/UX principles**
+
+---
+
+## Links
+- 🌐 Portfolio Website: https://djembar-cv.vercel.app/
+- 🎨 Dribbble: https://dribbble.com/Djembara
+- 📫 Email: djembararafat98@gmail.com
+
+---
+
+## Tech Stack (Primary)
+**Frontend:** Next.js · React · TypeScript · TailwindCSS  
+**Backend:** Node.js · Express · PostgreSQL  
+**Tools:** Git · Docker · Vercel
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+> A curated selection of projects that highlight **product thinking, UI quality, and engineering depth**.
+
+### 💬 ChatYo — Real-Time Chat Platform
+**Fullstack · Real-time · Payment System · Revenue Dashboard**  
+A production-style chat platform with group & private chat, monetization flows, payment gateway, and revenue analytics.  
+🔗 Repo: https://github.com/djembaraa/chatyo
+
+---
+
+### 🧘 Wellness Tracker Dashboard — EmergencyyCall (Study Case)
+**Frontend prototype · Emotional UI · Calm UX**  
+A warm, mindful dashboard concept focused on functional clarity and visually balanced UI.  
+🔗 Repo: https://github.com/djembaraa/wellness-tracker
+
+---
+
+### 🛒 Ecommerce Interface — DummyJSON API
+**Next.js · Search & Filters · Responsive UI**  
+A product catalog built with instant search, category filters, and clean UX interactions.  
+🔗 Repo: https://github.com/djembaraa/ecommerce-publicAPI
+
+---
+
+### 🍱 SEA Catering — Healthy Meal Subscription
+**Full-stack · Subscription Flow · Admin Dashboard**  
+A subscription-based meal service with browsing, checkout flow, and admin metrics dashboard.  
+🔗 Repo: https://github.com/djembaraa/sea-catering
+
+---
+
+### 🚀 LinkedIn Class Landing Page
+**Next.js · TypeScript · Tailwind · Responsive**  
+Landing page submitted for a Frontend Engineer assessment.  
+🔗 Repo: https://github.com/djembaraa/linkedinclass
+
+---
+
+### 📍 Google Maps Places Finder (Ethical)
+**Next.js · Google Places API · Export CSV**  
+Search places via the official Places API and export results to CSV (no scraping).  
+🔗 Repo: https://github.com/djembaraa/scrappingdata
+
+---
+
+### 🧩 MeetYourBand — Musician Social Platform
+**Full-stack · API · Database Design · Interactive UI**  
+A platform for connecting musicians with a structured backend and modern frontend.  
+🔗 Repo: https://github.com/djembaraa/meetyourband
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djembaraa&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djembaraa&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=djembaraa&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=djembaraa&theme=tokyonight&margin-w=10&row=1" />
-</p>
+---
+
+## Freelance Profiles
+- 🟢 Contra: https://contra.com/djembar_arafat_6jni9po6  
+- 💼 Freelancer: https://www.freelancer.com/u/DjembarArafat  
+- 🔧 Upwork: https://www.upwork.com/freelancers/~0180098ebaaab0aa80  
+- 🎨 Dribbble: https://dribbble.com/Djembara  
+- 🧠 Behance: https://www.behance.net/djembararafat  
 
 ---
 
-## 🌐 Freelance Profiles
-
-- 🟢 [Contra](https://contra.com/djembar_arafat_6jni9po6)
-- 💼 [Freelancer](https://www.freelancer.com/u/DjembarArafat)
-- 🔧 [Upwork](https://www.upwork.com/freelancers/~0180098ebaaab0aa80)
-- 🎨 [Dribbble](https://dribbble.com/Djembara)
-- 🧠 [Behance](https://www.behance.net/djembararafat)
+## Connect
+- LinkedIn: https://www.linkedin.com/in/djembaraa  
+- Instagram: https://instagram.com/djembaraa  
+- TikTok: https://tiktok.com/@djembaraa  
+- Telegram: https://t.me/djembaraa  
 
 ---
 
-## 🤝 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/djembaraa)
-- 📸 [Instagram](https://instagram.com/djembaraa)
-- ✒️ [TikTok](https://tiktok.com/@djembaraa)
-- 📬 [Telegram](https://t.me/djembaraa)
-
----
-
-<p align="center"><em>“Consistency beats motivation.”</em> 🚀</p>
+<p align="center"><em>Consistency beats motivation.</em> 🚀</p>
