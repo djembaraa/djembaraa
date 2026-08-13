@@ -1,194 +1,140 @@
-# 📖 Djembar Arafat's Developer Journey
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+story;[Your yearsExperience]+years+of+building+dreams;Currently+[Your currentRole]+%40+Open to Opportunities / Freelance" alt="Journey Header" />
+
+# ⚡ Djembar Arafat
+### **Fullstack Web Developer & UI/UX Designer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design" alt="Typing SVG" />
+
+<br>
+
+[![Location](https://img.shields.io/badge/Location-Indonesia-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/djembaraa)
+[![Role](https://img.shields.io/badge/Role-Fullstack_%26_UI%2FUX-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/djembaraa)
+[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=for-the-badge)](mailto:djembararafat98@gmail.com)
+
 </div>
 
 ---
 
-## 🏠 About My Story
+## 👨‍💻 About Me
 
-> *"[Your personalQuote]"*
+Hello, World! I'm **Djembar Arafat**, an Informatics Engineering student at **Universitas Amikom Purwokerto** and a passionate **Fullstack Web Developer & UI/UX Designer**. 
 
-Hello! I'm **Djembar Arafat**, a passionate developer based in **Indonesia**. Fullstack Web Developer & UI/UX Designer passionate about building scalable, high-performance web apps and crafting intuitive user interfaces using TypeScript, Next.js, and React.
+I specialize in building end-to-end, high-performance web applications using modern JavaScript/TypeScript ecosystems, combined with structured visual hierarchies rooted in **Gestalt Design Principles**. My current engineering focus centers on **Scalable Fullstack Architecture**, **Web Security Testing**, and **AI Integration (Agentic RAG & Automation)**.
 
-Currently working as **[Your currentRole]** at **Open to Opportunities / Freelance**, I've been on this incredible coding journey for **[Your yearsExperience]** years. Every day brings new challenges, learning opportunities, and moments of growth that shape who I am as a developer.
-
-**Quick snapshot:** [Your education] graduate who loves Learning Technologies and Playing Online Games and Sports & Fitness and Watching Movies when not coding.
+* 🎓 **Education:** Final-year B.S. in Informatics Engineering (*Amikom Purwokerto*)
+* 💼 **Experience:** Co-founded IT Solutions Agency (*PT Uwisara Maju Digital*) & Active Freelancer
+* 🛠️ **Core Mantra:** *"Designing with visual empathy, engineering with architectural precision."*
+* ⚡ **When not coding:** Continuous learning, exploring tech trends, gaming with friends, sports, & movies.
 
 ---
 
-## 🛤️ My Development Timeline
+## 🚀 Technical Arsenal
 
 <div align="center">
+
+### **Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frontend & UI/UX Systems**
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma_UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Gestalt Principles](https://img.shields.io/badge/Gestalt_Layouts-8B5CF6?style=for-the-badge&logo=designlint&logoColor=white)
+
+### **Backend, Database & Cloud Services**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### **AI Workflows & Real-time Systems**
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-FF6F61?style=for-the-badge)
+![Astra DB](https://img.shields.io/badge/Astra_DB-101828?style=for-the-badge&logo=datastax&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher_Sockets-30B3E8?style=for-the-badge&logo=pusher&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Featured Projects & Lab Chronicles
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔥 **GriyaReka Web App**
+> **Academic Security Laboratory**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://griyareka-pi.vercel.app/)
+
+A web platform engineered as an academic laboratory environment for investigating **Cross-Site Scripting (XSS)** vulnerabilities and client-side sanitization.
+
+* **Security Focus:** DOM-based XSS mitigation & HTML input sanitization using `isomorphic-dompurify`.
+* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Vercel.
+
+</td>
+<td width="33%" valign="top">
+
+### ⭐ **NexHire AI**
+> **Enterprise Candidate RAG Agent**
+
+[![Architecture](https://img.shields.io/badge/Domain-AI_Recruitment-8B5CF6?style=flat-square)](https://github.com/djembaraa)
+
+An enterprise-grade Applicant Tracking System (ATS) designed to eliminate recruitment bottlenecks via **Agentic RAG** and **Semantic Caching**.
+
+* **Key Feature:** Allows HR teams to query candidate databases using natural language with zero hallucinations.
+* **Tech Stack:** Next.js, Agentic RAG, TypeScript, Vector DB.
+
+</td>
+<td width="33%" valign="top">
+
+### 💎 **AI Autonomous CS Agent**
+> **Multi-Platform Support System**
+
+[![Status](https://img.shields.io/badge/Status-Active_Lab-10B981?style=flat-square)](https://github.com/djembaraa)
+
+An autonomous Customer Support Agent built to perform automated sentiment triage and execute automated actions across multi-platform tools.
+
+* **Key Feature:** Native integrations with **Slack, Gmail, & Notion** with minimal human intervention.
+* **Tech Stack:** Langflow, Astra DB, Composio, Node.js.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📂 <strong>Click here to view more archived software projects</strong></summary>
+
+<br>
+
+* **ChatYo:** Real-time messaging application powered by Pusher WebSockets and JWT Authentication.
+* **SLPPOS:** Web-based Point of Sale (POS) system built for business inventory & transaction management.
+* **Dafa Car Rental:** Custom rental business web interface with optimized booking flows.
+* **Telisik Platform:** Open investigation frontend platform (`telisik-ui`).
+
+</details>
+
+---
+
+## 🛤️ Career & Milestone Timeline
 
 ```mermaid
-gitgraph
-    commit id: "[Your careerStart]: Started Journey"
-    commit id: "[Your firstJob] at [Your firstJobCompany]"
-    commit id: "[Your milestone1Year]: [Your milestone1Description]"
-    commit id: "[Your milestone2Year]: [Your milestone2Description]"
-    commit id: "[Your milestone3Year]: [Your milestone3Description]"
-    commit id: "Present: [Your currentRole]"
-```
-
-</div>
-
-### 📅 Key Milestones
-
-<table>
-<tr>
-<td width="25%"><strong>[Your careerStart]</strong></td>
-<td width="75%">🌱 <strong>The Beginning</strong><br>Started my coding adventure. First line of code, first bug, first "Hello World!" - the journey began here.</td>
-</tr>
-<tr>
-<td width="25%"><strong>[Your milestone1Year]</strong></td>
-<td width="75%">🚀 <strong>First Major Step</strong><br>[Your milestone1Description]</td>
-</tr>
-<tr>
-<td width="25%"><strong>[Your milestone2Year]</strong></td>
-<td width="75%">💡 <strong>Level Up Moment</strong><br>[Your milestone2Description]</td>
-</tr>
-<tr>
-<td width="25%"><strong>[Your milestone3Year]</strong></td>
-<td width="75%">🎯 <strong>Achievement Unlocked</strong><br>[Your milestone3Description]</td>
-</tr>
-<tr>
-<td width="25%"><strong>Present</strong></td>
-<td width="75%">🔥 <strong>Current Chapter</strong><br>Working as [Your currentRole] at Open to Opportunities / Freelance, continuing to grow and learn every day.</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Evolution
-
-### 🏢 Career Path
-- **[Your careerStart]**: Started as [Your firstJob] at [Your firstJobCompany]
-- **Present**: [Your currentRole] at Open to Opportunities / Freelance
-- **Focus**: TypeScript, JavaScript, Next.js, React, Node.js, Express.js, Tailwind CSS, PostgreSQL, Prisma, Supabase, Sanity CMS, Cloudinary., [Your secondaryLanguage], [Your favoriteFramework]
-
-### 🎓 Continuous Learning
-- **Education**: [Your education]
-- **Certifications**: [Your certification1], [Your certification2]
-- **Currently Exploring**: [Your currentlyLearning]
-
----
-
-## 🚀 Project Chronicles
-
-<div align="center">
-
-### Featured Work That Tells My Story
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🔥 GriyaReka Web Application
-**[View Project]([Your project1Url])**
-
-Academic Laboratory Purpose: This project was developed as an academic laboratory environment for testing Cross-Site Scripting (XSS) vulnerabilities and mitigations. Specifically, the Blog feature utilizes isomorphic-dompurify to sanitize HTML inputs and defend against malicious script injection.
-
-*This project represents my growth in...*
-
-</td>
-<td width="33%">
-
-#### ⭐ NexHire AI
-**[View Project]([Your project2Url])**
-
-NexHire AI is an enterprise-grade Applicant Tracking System built to solve the biggest bottleneck in recruitment: CV Screening & Candidate Matching. By leveraging Agentic Retrieval-Augmented Generation (RAG) and Semantic Caching, NexHire AI allows HR professionals to chat with their candidate database in natural language and receive highly accurate, hallucination-free insights.
-
-
-*A milestone in my journey with...*
-
-</td>
-<td width="33%">
-
-#### 💎 AI Autonomous Customer Support Agent
-**[View Project]([Your project3Url])**
-
-An advanced, autonomous Customer Support (CS) Agent built with Langflow, Astra DB, and Composio. This agent is designed to handle customer inquiries, perform automated sentiment triage, and execute actions across third-party platforms (Slack, Gmail, Notion) with minimal human intervention.
-
-*My latest adventure in...*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 My GitHub Story in Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your githubUsername]&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=2F81F7&bg_color=ffffff&text_color=333" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[Your githubUsername]&theme=default&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7&background=ffffff" alt="GitHub Streak" />
-</div>
-
-### 📈 Activity Over Time
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Your githubUsername]&theme=github-compact&hide_border=true&bg_color=ffffff&color=2F81F7&line=2F81F7&point=FF6B6B" alt="Activity Graph" />
-</div>
-
----
-
-## 🧠 Learning & Growth Mindset
-
-<img align="right" alt="Learning GIF" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 📚 What I'm Currently Reading (Code-wise)
-- Deep diving into **[Your currentlyLearning]**
-- Exploring best practices in **[Your favoriteFramework]**
-- Always refining my **TypeScript, JavaScript, Next.js, React, Node.js, Express.js, Tailwind CSS, PostgreSQL, Prisma, Supabase, Sanity CMS, Cloudinary.** skills
-
-### 🎯 2025 Goals
-- [ ] Master advanced concepts in [Your currentlyLearning]
-- [ ] Contribute to more open source projects
-- [ ] Share knowledge through technical writing
-- [ ] Build something that impacts the community
-
-### 💭 Philosophy
-I believe in **continuous learning**, **sharing knowledge**, and **building meaningful connections**. Every project is a story, every bug is a lesson, and every collaboration is an opportunity to grow.
-
----
-
-## 🌍 Beyond the Code
-
-When I'm not coding, you'll find me:
-- 🎨 **Learning Technologies and Playing Online Games** - It keeps my creative mind sharp
-- 🎵 **Sports & Fitness and Watching Movies** - Perfect for unwinding after long coding sessions
-- 📚 Reading tech blogs and staying updated with industry trends
-- 🤝 Contributing to the developer community
-
----
-
-## 🤝 Let's Connect & Share Stories
-
-<div align="center">
-
-I'm always excited to connect with fellow developers, share experiences, and learn from each other's journeys!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djembararafat98@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([Your websiteUrl])
-
-</div>
-
----
-
-<div align="center">
-
-### 📖 "Every expert was once a beginner. Every pro was once an amateur." 
-
-<p><em>Thank you for taking time to read my story. I'd love to hear yours too! 🚀</em></p>
-
-<img src="https://komarev.com/ghpvc/?username=[Your githubUsername]&color=2F81F7&style=flat-square&label=Story+Readers" alt="Profile Views" />
-
-</div>
+timeline
+    title Engineering Journey
+    2024 : Co-Founded IT Solutions Agency (PT Uwisara Maju Digital)
+         : Delivered Freelance & Hybrid Web Projects
+    2025 : Advanced Fullstack Architecture Mastery (Next.js & TypeScript)
+         : Deep Dive into Visual Hierarchy & Gestalt UI/UX Design
+    2026 : Developed AI Engineering Applications (Agentic RAG & Langflow)
+         : Built Web Security Testing Laboratories & Enterprise Systems
+         : Active Fullstack Developer & Open to Full-Time / Freelance Roles
