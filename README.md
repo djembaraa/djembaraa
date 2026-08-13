@@ -43,10 +43,6 @@ Hi! I am a **Full-Stack Web Developer** and **UI/UX Designer**. I specialize in 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/djembaraa" alt="Djembar's Github Contributions" width="100%" />
-</p>
-
 ---
 
 ## 📬 Connect With Me
