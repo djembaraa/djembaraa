@@ -1,20 +1,25 @@
-# Hi 👋, I'm Djembar Arafat
-### Full-Stack Engineer & UI/UX Designer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=djembaraa&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=djembaraa&theme=flat" alt="Trophies" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=djembaraa&theme=github-dark" alt="djembaraa hero section" />
+  </picture>
 </p>
 
 ---
 
 ## 📌 About Me
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=djembaraa&theme=github-dark" alt="djembaraa about section" />
+  </picture>
+</p>
+
 - 🔭 **Currently Working On:** [Gulma](https://www.djembara.com) (E-Commerce Platform) & Real-Time Web Applications
 - 🌱 **Core Tech Stack:** TypeScript, Next.js, React, Node.js, Express.js, PostgreSQL, & UI/UX Design Systems
-- 👯 **Open for Collaboration:** Full-Stack Open Source Projects & Scalable Design Systems
+- 👯 **Open for Collaboration:** Open-Source Fullstack Web Applications & Scalable Design Systems
+- 💬 **Ask Me About:** React, Next.js, TypeScript, Node.js, Tailwind CSS, & UI/UX Design
 - 👨‍💻 **Portfolio & Showcase:** [djembara.com](https://www.djembara.com/)
 - 📝 **Articles & Blog:** [djembara.com/blog](https://www.djembara.com/blog)
 - 📄 **Experience & Resume:** [djembara.com/about](https://www.djembara.com/about)
@@ -22,9 +27,16 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Tech Stack
 
-<p align="left">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=djembaraa&theme=github-dark" alt="djembaraa stack section" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,postgres,prisma,tailwind,figma,docker,git" alt="My Tech Stack" />
   </a>
@@ -32,28 +44,44 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projects & Proof of Work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djembaraa&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=djembaraa&theme=github-dark" alt="djembaraa projects section" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=djembaraa&theme=github-dark" alt="djembaraa stats section" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djembaraa&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djembaraa&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/0e75b6/djembaraa" alt="Djembar's Github Contributions" width="100%" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="left">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=djembaraa&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=djembaraa&theme=github-dark" alt="djembaraa social section" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="mailto:djembararafat98@gmail.com"><img src="https://img.shields.io/badge/Email-djembararafat98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/djembar-arafat-9a6602178/"><img src="https://img.shields.io/badge/LinkedIn-Djembar_Arafat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.djembara.com"><img src="https://img.shields.io/badge/Portfolio-djembara.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://dribbble.com/Djembara"><img src="https://img.shields.io/badge/Dribbble-Djembara-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="https://github.com/djembaraa"><img src="https://img.shields.io/badge/GitHub-djembaraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
