@@ -3,10 +3,11 @@
 # ⚡ Djembar Arafat
 ### **Fullstack Web Developer & UI/UX Designer**
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting%20Scalable%20Fullstack%20Web%20Apps;Next.js%20and%20TypeScript%20Development;Architecting%20AI-Powered%20Digital%20Solutions;Applying%20Gestalt%20Principles%20for%20UI%20UX" alt="Typing SVG" />
 
-<br>
+<br><br>
 
+[![Website](https://img.shields.io/badge/Website-djembara.com-000000?style=for-the-badge&logo=globe&logoColor=white)](https://djembara.com)
 [![Location](https://img.shields.io/badge/Location-Indonesia-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/djembaraa)
 [![Role](https://img.shields.io/badge/Role-Fullstack_%26_UI%2FUX-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/djembaraa)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=for-the-badge)](mailto:djembararafat98@gmail.com)
@@ -21,6 +22,7 @@ Hello, World! I'm **Djembar Arafat**, an Informatics Engineering student at **Un
 
 I specialize in building end-to-end, high-performance web applications using modern JavaScript/TypeScript ecosystems, combined with structured visual hierarchies rooted in **Gestalt Design Principles**. My current engineering focus centers on **Scalable Fullstack Architecture**, **Web Security Testing**, and **AI Integration (Agentic RAG & Automation)**.
 
+* 🌐 **Personal Website:** [djembara.com](https://djembara.com)
 * 🎓 **Education:** Final-year B.S. in Informatics Engineering (*Amikom Purwokerto*)
 * 💼 **Experience:** Co-founded IT Solutions Agency (*PT Uwisara Maju Digital*) & Active Freelancer
 * 🛠️ **Core Mantra:** *"Designing with visual empathy, engineering with architectural precision."*
