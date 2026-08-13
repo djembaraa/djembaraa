@@ -3,7 +3,7 @@
 # ⚡ Djembar Arafat
 ### **Fullstack Web Developer & UI/UX Designer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Fullstack+Web+Applications;Next.js+%2B+TypeScript+%2B+Modern+UI%2FUX;Architecting+AI-Powered+Digital+Solutions;Applying+Gestalt+Principles+for+Intuitive+Design)" alt="Typing SVG" />
 
 <br>
 
@@ -138,31 +138,3 @@ timeline
     2026 : Developed AI Engineering Applications (Agentic RAG & Langflow)
          : Built Web Security Testing Laboratories & Enterprise Systems
          : Active Fullstack Developer & Open to Full-Time / Freelance Roles
-
-## 📊 Analytics & 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing web architecture, UI/UX design systems, AI integrations, or potential project collaborations!
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djembar_Arafat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djembar-arafat)
-[![GitHub](https://img.shields.io/badge/GitHub-djembaraa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djembaraa)
-[![Email](https://img.shields.io/badge/Email-djembararafat98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djembararafat98@gmail.com)
-[![GriyaReka Lab](https://img.shields.io/badge/GriyaReka_Lab-griyareka--pi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://griyareka-pi.vercel.app/)
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=djembaraa&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&bg_color=0D1117&text_color=94A3B8" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=djembaraa&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&background=0D1117" width="48%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=djembaraa&theme=github-compact&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B" width="98%" alt="Activity Graph" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=djembaraa&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
