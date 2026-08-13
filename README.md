@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting%20Scalable%20Fullstack%20Web%20Apps;Next.js%20and%20TypeScript%20Development;Architecting%20AI-Powered%20Digital%20Solutions;Applying%20Gestalt%20Principles%20for%20UI%20UX" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![Website](https://img.shields.io/badge/Website-djembara.com-000000?style=for-the-badge&logo=globe&logoColor=white)](https://djembara.com)
 [![Location](https://img.shields.io/badge/Location-Indonesia-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/djembaraa)
