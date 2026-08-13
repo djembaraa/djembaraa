@@ -1,7 +1,18 @@
-# Hi 👋, I'm Djembar Arafat
-### A passionate Full-Stack Engineer & UI/UX Designer
+<!-- 1. ANIMASI TEKS KETIK (TYPING SVG) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Djembar+Arafat;Full-Stack+Engineer+%26+UI%2FUX+Designer;Building+Pixel-Perfect+%26+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djembaraa&label=Profile%20views&color=0e75b6&style=flat" alt="djembaraa" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djembaraa&label=Profile%20views&color=0e75b6&style=flat" alt="djembaraa profile views" />
+</p>
+
+<!-- ANIMASI PEMISAH RETRO GAME -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Game Animation Divider" />
+</p>
 
 - 🔭 I’m currently working on **Gulma (E-Commerce Platform) & Real-Time Web Applications**
 - 🌱 I’m currently learning **AI Integration, Web3 Development, Data Analytics, and Web Application Security**
@@ -13,6 +24,8 @@
 - 👨‍💻 All of my projects are available at **[https://www.djembara.com/](https://www.djembara.com/)**
 - 📝 I regularly write articles on **[https://www.djembara.com/blog](https://www.djembara.com/blog)**
 - 📄 Know about my experiences **[https://www.djembara.com/about](https://www.djembara.com/about)**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +39,8 @@
 <a href="https://discord.gg/djembaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="djembaraa" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +48,16 @@
   </a>
 </p>
 
-<h3 align="left">Contributions:</h3>
+---
+
+<!-- 2. GAME SNAKE MEMAKAN KONTRIBUSI GITHUB -->
+<h3 align="left">🎮 Contribution Snake Game:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/djembaraa" alt="Djembar's Github Contributions" width="100%" />
 </p>
